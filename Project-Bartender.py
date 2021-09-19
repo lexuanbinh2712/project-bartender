@@ -35,7 +35,7 @@ def recipe(h):
 # In[64]:
 
 
-quest(strong = 'do ye like yer drink strong ?',salty='do ye like it with a salty tang ? ',bitter='are ye a lubber who likes it bitter ? ',sweet='would ye like a bit of sweetness with yer poison?',fruity='Are ye one for a fruity finish?')
+quest(strong = 'do ye like yer drink strong ? (please write answer: yes or no !!',salty='do ye like it with a salty tang ? ',bitter='are ye a lubber who likes it bitter ? ',sweet='would ye like a bit of sweetness with yer poison?',fruity='Are ye one for a fruity finish?')
 
 
 # In[84]:
